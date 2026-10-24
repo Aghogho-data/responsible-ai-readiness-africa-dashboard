@@ -100,7 +100,12 @@ A drill-through page showing any country's score, Africa and global rank, varian
 
 ## 👥 Team
 
-Built by **Team Debuggers** for the DSN 2026 AI Bootcamp Hackathon.
+Built by **Team Debuggers** for the DSN 2026 AI Bootcamp Hackathon:
 
-**Aghogho (Faith) Awaritoma**, Data Analyst · Power BI · Tableau · Excel · SQL
+- **Aghogho Awaritoma**
+- **Joy Jacob**
+- **Raji Aisha**
+- **Ufuoma Avworu**
+
+**Repository maintained by Aghogho (Faith) Awaritoma**, Data Analyst · Power BI · Tableau · Excel · SQL
 🔗 [LinkedIn](https://www.linkedin.com/in/awaritomafaith) · [GitHub](https://github.com/Aghogho-data)
