@@ -2,7 +2,8 @@
 
 An interactive **Power BI** dashboard that measures how ready 39 African countries are to govern AI responsibly, using data from the **Global Index on Responsible AI (GIRAI)**.
 
-🏆 *Built by **Team Debuggers** for the **DSN 2026 AI Bootcamp Hackathon** (African Responsible AI Challenge).*
+🏆 **One of the winning teams, Data Analytics Track, DSN AI Bootcamp 2026 Hackathon** (African Responsible AI Challenge), built by **Team Debuggers**.
+
 
 ![Overview](1-overview.png)
 
